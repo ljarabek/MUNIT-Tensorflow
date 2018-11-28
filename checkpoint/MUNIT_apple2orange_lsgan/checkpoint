@@ -1,0 +1,6 @@
+model_checkpoint_path: "MUNIT.model-165001"
+all_model_checkpoint_paths: "MUNIT.model-161001"
+all_model_checkpoint_paths: "MUNIT.model-162001"
+all_model_checkpoint_paths: "MUNIT.model-163001"
+all_model_checkpoint_paths: "MUNIT.model-164001"
+all_model_checkpoint_paths: "MUNIT.model-165001"

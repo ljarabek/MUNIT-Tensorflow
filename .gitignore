@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.jpg
+*.meta
+*.index
+*.data-00000-of-00001
+*.zip
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/MUNIT-Tensorflow.iml
+.idea/modules.xml
+.idea/misc.xml
